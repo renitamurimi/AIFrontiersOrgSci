@@ -9,9 +9,9 @@ Artifact repository for AI Frontiers in Org Sci
 
 ## Overview
 
-This repository contains the computational pipeline and data processing scripts for measuring how specialized, technical vocabularies undergo **lexical drift** and **semantic shift** as they migrate across domain boundaries into synthetic communities.
+This repository contains the computational pipeline and data processing scripts for measuring how specialized, technical vocabularies undergo lexical drift and semantic shift as they migrate across domain boundaries into synthetic communities.
 
-Using the adoption of **Agile software engineering methodologies** into **organizational theory (OT) management literature** as an empirical case study, this project operationalizes a multi-stage NLP pipeline to quantify the **translation friction gap** and track the process of **metaphor reification**.
+Using the adoption of agile software engineering methodologies into organizational theory (OT) management literature as an empirical case study, this project operationalizes a multi-stage NLP pipeline to quantify the translation friction gap and track the process of metaphor reification.
 
 ---
 
@@ -19,13 +19,14 @@ Using the adoption of **Agile software engineering methodologies** into **organi
 
 While organizational research frequently draws on technical frameworks (e.g., Agile, Lean, Six Sigma) to describe operational structures, these vocabularies often undergo structural distortion when adopted enterprise-wide. 
 
-This project bridges **Organizational Science**, **Diachronic Semantics**, and **Scientometrics** by evaluating:
+This project bridges organizational science, semantics, and scientometrics by evaluating:
 1. **Insider vs. Outsider Discourse:** How term usage differs between native technical practitioners (software engineers) and downstream managerial adopters (organizational theorists).
 2. **Metaphor Reification:** The cognitive transition where concrete procedural tools freeze into abstract, reified management paradigms.
 3. **Generalizable Synthetic Community Dynamics:** Providing a computational framework applicable to tracking language evolution across any domain boundary (e.g., cybersecurity, military doctrine, AI governance).
 
 ---
 
+```
 ## Architecture & Data Pipeline
 
 The pipeline processes textual corpora through a three-stage computational architecture:
@@ -48,13 +49,14 @@ The pipeline processes textual corpora through a three-stage computational archi
 ▼
 [ Translation Friction & Drift ]
 
+```
 
 1. **Vectorization Layer:** Text cleaning, stop-word removal, lemmatization, and matrix feature extraction.
 2. **Lexical Comparison Layer:** Uses TF-IDF vectorization and cosine distance to quantify surface-level vocabulary divergence.
 3. **Semantic Comparison Layer:** Uses dense contextual embeddings (Sentence-BERT) to measure deep conceptual shift and contextual distance across corpora.
 
 ---
-
+```
 ## Repository Structure
 .
 ├── data/
@@ -65,7 +67,7 @@ The pipeline processes textual corpora through a three-stage computational archi
 ├── requirements.txt         # Python dependencies
 ├── LICENSE
 └── README.md
-
+```
 Quick Start
 1. Prerequisites
 Python 3.8 or higher
