@@ -1,0 +1,48 @@
+=== PAPER 1 ===
+Title: Failing Fast: Why It's Essential for Entrepreneurs
+Abstract: In the early stages of building a business, experimentation is everything. It’s a fast-paced cycle of testing ideas, learning from mistakes, and making rapid adjustments. While this trial-and-error process is essential for growth, it can be intimidating—especially when a Global Entrepreneurship Monitor survey shows that 49 percent of people said they wouldn’t start a business for fear of failure.
+How do you know when you’ve hit the sweet spot: that moment your product resonates with customers and sets you on a path to success?
+Understanding the importance of failing fast is crucial in entrepreneurial marketing and launching new technology ventures, providing a foundation for growth and helping refine your brand’s effectiveness.
+To help you navigate this approach, here’s a guide to failing fast, including its benefits and how it differs from scaling fast.
+Failing fast is a strategy that focuses on quickly testing and refining ideas to gain insights from mistakes rather than dedicating excessive time to perfecting them before launching a business.
+“During the early days of a startup’s life, it must iterate on all parts of its business model,” says Harvard Business School Professor Christina Wallace, who teaches the online course Entrepreneurial Marketing. “The name of the game is to fail quickly and continue to ideate until you find something that works.”
+The goal is to swiftly identify and learn from errors, refining your product or business model in the process. By adopting this iterative method, not only do you accelerate decision-making, but you enhance your chances of scaling effectively.
+
+
+=== PAPER 2 ===
+Title: How to get startup ideas
+Abstract: The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.
+
+The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way.
+
+Why is it so important to work on a problem you have? Among other things, it ensures the problem really exists. It sounds obvious to say you should only work on problems that exist. And yet by far the most common mistake startups make is to solve problems no one has.
+
+I made it myself. In 1995 I started a company to put art galleries online. But galleries didn't want to be online. It's not how the art business works. So why did I spend 6 months working on this stupid idea? Because I didn't pay attention to users. I invented a model of the world that didn't correspond to reality, and worked from that. I didn't notice my model was wrong until I tried to convince users to pay for what we'd built. Even then I took embarrassingly long to catch on. I was attached to my model of the world, and I'd spent a lot of time on the software. They had to want it!
+
+Why do so many founders build things no one wants? Because they begin by trying to think of startup ideas.
+ 
+
+=== PAPER 3 ===
+Title: Agile at scale, explained
+Abstract: With talk of scrums and sprinting, corporate environments are starting to sound a bit more like rugby matches these days. But the terminology, borrowed from the popular English sport, actually refers to an alternative way of managing work: agile.
+Kristine Dery, a research scientist with the MIT Center for Information Systems Research who is studying agile at scale, also known as agile management or scaled agile, as it relates to the employee experience, said making the switch represents a major overhaul for any organization.
+But, by many measures, it appears to be a more effective way of working in a rapidly-evolving digital environment. Large companies like Spotify, Ericsson, Microsoft, and Riot Games have all adopted the method.
+So what is agile, and is it the right fit for your firm? And what should you do to prepare for implementing it?
+Agile, first introduced in 2001 in the Manifesto for Agile Software Development, started out as a method used in software development that challenged the traditional, linear “waterfall” development model, in which entire projects are pre-planned, then fully built out before they are tested. Agile’s approach offers iterative flexibility, with small parts of projects being built and tested simultaneously.
+Taking a more iterative approach makes it easier to keep projects aligned, on track and relevant, and it allows for the release of “minimum viable products” to gather more frequent user feedback from clients earlier in the process. That helps guide the team on what needs to be changed or altered to make the product more successful.
+
+=== PAPER 4 ===
+Title: Embracing Agile
+Abstract: agile innovation methods have revolutionized information technology. Over the past 25 to 30 years they have greatly increased success rates in software development, improved quality and speed to market, and boosted the motivation and productivity of IT teams.  Now agile methodologies—which involve new values, principles, practices, and benefits and are a radical alternative to command-and-control-style management—are spreading across a broad range of industries and functions and even into the C-suite. National Public Radio employs agile methods to create new programming. John Deere uses them to develop new machines, and Saab to produce new fighter jets. Intronis, a leader in cloud backup services, uses them in marketing. C.H. Robinson, a global third-party logistics provider, applies them in human resources. Mission Bell Winery uses them for everything from wine production to warehousing to running its senior leadership group. And GE relies on them to speed a much-publicized transition from 20th-century conglomerate to 21st-century “digital industrial company.” By taking people out of their functional silos and putting them in self-managed and customer-focused multidisciplinary teams, the agile approach is not only accelerating profitable growth but also helping to create a new generation of skilled general managers. The spread of agile raises intriguing possibilities. What if a company could achieve positive returns with 50% more of its new-product introductions? What if marketing programs could generate 40% more customer inquiries? What if human resources could recruit 60% more of its highest-priority targets? What if twice as many workers were emotionally engaged in their jobs? 
+
+=== PAPER 5 ===
+Title: 10 agile ideas worth sharing
+Abstract: Nearly 20 years into the agile revolution, it’s a given that software development has been inextricably altered by the avid embrace of agile practices. Are large-scale systems engineering initiatives next?
+Steven Eppinger,professor of management science at MIT Sloan, recently laid out a case for applying agile to development realms outside of software. “Every company is trying to be more agile — it’s become part of the regular engineering management lexicon,” he said. “It's shocking how quickly it’s being adopted.”
+Agile replaces the traditional, linear “waterfall” development model, in which projects are preplanned and fully built out before they are tested, with an iterative process where small parts of projects are being built and tested simultaneously. Companies have embraced agile for a variety of reasons — to boost product innovation, more quickly meet customer demands, accelerate delivery cycles, reduce risk, and improve productivity.
+But while agile has a proven track record in software development, it hasn’t been put to the test or used extensively in other types of development, such as  manufacturing or engineering, said Eppinger, faculty co-director of the MIT System Design and Management program.
+In a recent webinar, Eppinger outlined agile practices that, with some minor adjustments, can deliver benefits to other engineering practices and industries. A major telecommunications company, for example, used agile to facilitate the design of hardware and cloud-based connected services.
+According to Eppinger, these 10 tenets of agile software development can be adapted for other types of complex engineering systems. 
+
+
+

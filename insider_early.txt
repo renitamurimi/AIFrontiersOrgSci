@@ -1,0 +1,35 @@
+=== PAPER 1 ===
+Title: The Agile Manifesto
+Abstract: Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Business people and developers must work together daily throughout the project. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. Working software is the primary measure of progress. 
+Agile processes promote sustainable development. The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely. Continuous attention to technical excellence and good design enhances agility. Simplicity--the art of maximizing the amount of work not done--is essential. The best architectures, requirements, and designs emerge from self-organizing teams. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+
+=== PAPER 2 ===
+Title: Iterative and incremental developments. a brief history
+Abstract: Although many view iterative and incremental development as a modern practice, its application dates as far back as the mid-1950s. Prominent software-engineering thought leaders from each succeeding decade supported IID practices, and many large projects used them successfully. These practices may have differed in their details, but all had a common theme-to avoid a single-pass sequential, document-driven, gated-step approach.
+
+
+=== PAPER 3 ===
+Title: A spiral model of software development and enhancement
+Abstract: A short description is given of software process models and the issues they address. An outline is given of the process steps involved in the spiral model, an evolving risk-driven approach that provides a framework for guiding the software process, and its application to a software project is shown. A summary is given of the primary advantages and implications involved in using the spiral model and the primary difficulties in using it at its current incomplete level of elaboration.
+
+
+=== PAPER 4 ===
+Title: SCRUM: An extension pattern language for hyperproductive software development
+Abstract: The patterns of the SCRUM development method are presented as an
+extension pattern language to the existing organizational pattern languages.
+In the last few years, the SCRUM development method has rapidly gained
+recognition as an effective tool to hyper-productive software development.
+However, when SCRUM patterns are combined with other existing
+organizational patterns, they lead to highly adaptive, yet well-structured
+software development organizations. Also, decomposing SCRUM into
+patterns can guide adoption of only those parts of SCRUM that are applicable
+to a specific situation.
+
+=== PAPER 5 ===
+Title: Extreme programming and agile software development methodologies
+Abstract: Several agile (i.e., lightweight) development methodologies, especially extreme programming
+(XP), have been argued to be a solution to many of the problems that continue to plague software development projects. The authors provide a useful evaluation of such approaches,
+including a discussion of the values that underlie the XP methodology.
+
