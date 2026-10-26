@@ -99,6 +99,7 @@ Citation & License
 If you use this codebase or methodology in your research, please cite:
 
 Code snippet
+```
 @misc{murimi2026agile,
   author = {Murimi, Renita},
   title = {Tracing Semantic Drift in Synthetic Communities: A Corpus-Based Framework for Measuring Language Migration in Organizations},
@@ -107,3 +108,4 @@ Code snippet
   journal = {GitHub repository},
   howpublished = {\url{[https://github.com/renitamurimi/agile_semantic_drift](https://github.com/renitamurimi/agile_semantic_drift)}}
 }
+```
