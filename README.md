@@ -77,7 +77,8 @@ Recommended virtual environment setup
 
 2. Installation
 Clone the repository and install dependencies:
-
+```
+```
 Bash
 git clone [https://github.com/renitamurimi/agile_semantic_drift.git](https://github.com/renitamurimi/agile_semantic_drift.git)
 cd agile_semantic_drift
@@ -87,7 +88,7 @@ Run the preprocessing and similarity pipeline:
 
 Bash
 python agile_semantic_drift.py
-```
+
 Key Research Questions:
 RQ1: How do specialized technical methodologies undergo lexical drift, semantic shift, and metaphor reification as they migrate from insider engineering domains into broader organizational theory?
 
@@ -97,7 +98,7 @@ Keywords:
 Semantic drift, Metaphor reification, Synthetic communities, Lexical comparison, Computational text analysis, Organizational science
 ```
 ```
-Citation & License
+Citation & License:
 If you use this codebase or methodology in your research, please cite:
 
 Code snippet
