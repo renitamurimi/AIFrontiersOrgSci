@@ -68,6 +68,7 @@ The pipeline processes textual corpora through a three-stage computational archi
 ├── LICENSE
 └── README.md
 ```
+```
 Quick Start
 1. Prerequisites
 Python 3.8 or higher
@@ -94,6 +95,7 @@ RQ2: To what extent can a dual-layer computational model—combining surface-lev
 
 Keywords:
 Semantic drift, Metaphor reification, Synthetic communities, Lexical comparison, Computational text analysis, Organizational science
+```
 ```
 Citation & License
 If you use this codebase or methodology in your research, please cite:
